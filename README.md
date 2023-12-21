@@ -16,5 +16,11 @@ The primary source for this data is 'Board Report.xlxs' detailing reports to be 
 - Top Sales by SalesPerson
 ### Data Analysis
 - Formatted the date column using format
-- Formatted to get the day/month using the TEXT Function
+- Formatted to get the day/month using the =TEXT(A2,"MM/yyyy") Function
+### Results and Findings
+### Recommendations
+### Limitations
+### References 
+[Stack]
+
  
