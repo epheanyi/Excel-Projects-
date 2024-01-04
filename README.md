@@ -23,7 +23,7 @@ The report was done in both Excel and PowerBI.
 The extracted data was copied directly from SQL with the header and pasted in a blank Excel sheet. 
 Excel functions were usd for aggregates and Pivot tables and charts were used for the visualizationFormatted the date column using format
 - Data Column was formatted to get the day/month using the =TEXT(A2,"MM/yyyy") Function
-### Results and Findings
+
 
 
 
