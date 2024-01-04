@@ -12,7 +12,7 @@ The primary source for this data is 'Board Report.xlxs' detailing reports to be 
 ### Explolatory Data Analysis (EDA)
 - Top Sales by Category
 - Top Sales by Country
-- Top Percentage Sales/Returns
+- Percentage Sales/Returns
 - Country/Continent/Description Slides
 - Top Sales by SalesPerson
 ### Data Analysis
